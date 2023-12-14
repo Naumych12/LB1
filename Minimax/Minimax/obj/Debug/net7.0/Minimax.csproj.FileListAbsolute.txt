@@ -1,0 +1,14 @@
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\bin\Debug\net7.0\Minimax.exe
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\bin\Debug\net7.0\Minimax.deps.json
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\bin\Debug\net7.0\Minimax.runtimeconfig.json
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\bin\Debug\net7.0\Minimax.dll
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\bin\Debug\net7.0\Minimax.pdb
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.AssemblyInfoInputs.cache
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.AssemblyInfo.cs
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.csproj.CoreCompileInputs.cache
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.dll
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\refint\Minimax.dll
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.pdb
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\Minimax.genruntimeconfig.cache
+C:\Users\anaumenko\Desktop\Projects Samples\Thread\Minimax\Minimax\obj\Debug\net7.0\ref\Minimax.dll
